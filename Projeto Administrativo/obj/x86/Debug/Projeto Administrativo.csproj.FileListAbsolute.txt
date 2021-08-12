@@ -1,0 +1,198 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\USUARIO\Dropbox\2°A T.I\TCC\Projeto TCC (Desktop)\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\USUARIO\Dropbox\2°A T.I\TCC\Projeto TCC (Desktop)\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Debug\mysql.data.dll
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroAluno.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\A PORRA DO MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\Natham Pereira\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Gastos_Diversos.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Pagamento_Funcionário.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Buscar_nome_resp.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Buscar_nome_resp.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Gastos_Diversos.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Pagamento_Funcionário.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Escala.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Projecao_de_dados.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Escala.resources
+C:\Users\maxni\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Projecao_de_dados.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Buscar_nome_resp.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Escala.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Gastos_Diversos.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Pagamento_Funcionário.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Projecao_de_dados.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\Natham Pereira\Desktop\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Buscar_nome_resp.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Escala.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Gastos_Diversos.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Pagamento_Funcionário.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Projecao_de_dados.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\maxni\Desktop\Videos e TCC\UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Debug\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.AreaProfessor.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Escala.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Chat.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Home.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Funcionario.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Gastos_Diversos.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Pagamento_Funcionário.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Projecao_de_dados.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira___Outros.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto_Administrativo.Área_Financeira.resources
+C:\Users\maxni\Desktop\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\TCC FORMADOS\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\TCC FORMADOS\Videos e TCC\FINALIZADO UNIFICADO - MEU TCC DA ESCOLA DA STEPHANY MAX\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Debug\Projeto Administrativo.pdb

@@ -1,0 +1,30 @@
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Release\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Release\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\bin\Release\mysql.data.dll
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.CadastroAluno.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Release\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\bin\Release\Projeto Administrativo.pdb
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.csprojResolveAssemblyReference.cache
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Chat.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.BuscarPorNome.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Cadastro.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.CadastroFuncionario.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Financeiro.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Form1.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Login.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Home.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Properties.Resources.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto_Administrativo.Área_Administrativa.resources
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.csproj.GenerateResource.Cache
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.exe
+C:\Users\maxni\Desktop\MEU TCC DA ESCOLA DA STEPHANY\Projeto Administrativo\Projeto Administrativo\obj\x86\Release\Projeto Administrativo.pdb

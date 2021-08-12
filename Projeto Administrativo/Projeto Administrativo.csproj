@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9CCA2761-7480-4476-BA2B-EB9CFB0C82A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_Administrativo</RootNamespace>
+    <AssemblyName>Projeto Administrativo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\Conexão C# com banco de dados\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassEscala.cs" />
+    <Compile Include="Classes\Areaporofessor.cs" />
+    <Compile Include="AreaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreaProfessor.Designer.cs">
+      <DependentUpon>AreaProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DadosAluno.cs" />
+    <Compile Include="DadosProf.cs" />
+    <Compile Include="Escala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escala.Designer.cs">
+      <DependentUpon>Escala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\ClasseTLogin.cs" />
+    <Compile Include="Forms\BuscarPorNome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuscarPorNome.Designer.cs">
+      <DependentUpon>BuscarPorNome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AlunoCRUD.cs" />
+    <Compile Include="Forms\Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\FuncionarioCRUD.cs" />
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Funcionario.Designer.cs">
+      <DependentUpon>Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graficos.cs" />
+    <Compile Include="Natham\Forms\Gastos Diversos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Natham\Forms\Gastos Diversos.Designer.cs">
+      <DependentUpon>Gastos Diversos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Natham\Classe\GastosDiversos.cs" />
+    <Compile Include="Natham\Classe\LembretePagamento.cs" />
+    <Compile Include="Natham\Classe\PagamentoClientes.cs" />
+    <Compile Include="Natham\Classe\PagamentoFuncionários.cs" />
+    <Compile Include="Natham\Forms\Pagamento_Funcionário.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Natham\Forms\Pagamento_Funcionário.Designer.cs">
+      <DependentUpon>Pagamento_Funcionário.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Projecao de dados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projecao de dados.Designer.cs">
+      <DependentUpon>Projecao de dados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Natham\Forms\Área Financeira - Outros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Natham\Forms\Área Financeira - Outros.Designer.cs">
+      <DependentUpon>Área Financeira - Outros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Natham\Forms\Área Financeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Natham\Forms\Área Financeira.Designer.cs">
+      <DependentUpon>Área Financeira.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AreaProfessor.resx">
+      <DependentUpon>AreaProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escala.resx">
+      <DependentUpon>Escala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuscarPorNome.resx">
+      <DependentUpon>BuscarPorNome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Funcionario.resx">
+      <DependentUpon>Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Natham\Forms\Gastos Diversos.resx">
+      <DependentUpon>Gastos Diversos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Natham\Forms\Pagamento_Funcionário.resx">
+      <DependentUpon>Pagamento_Funcionário.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projecao de dados.resx">
+      <DependentUpon>Projecao de dados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Natham\Forms\Área Financeira - Outros.resx">
+      <DependentUpon>Área Financeira - Outros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Natham\Forms\Área Financeira.resx">
+      <DependentUpon>Área Financeira.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-07-27 at 17.25.07.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TCC2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2020-07-28 at 17.36.42.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo do TCC.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
